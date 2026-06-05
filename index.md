@@ -13,3 +13,5 @@ Ce site permet de montrer les validations et analyses techniques de mon projet d
 - [Checklist Opquast](opquast.md)
 - [Tests utilisateurs](testsutilisateurs.md)
 - [Javascript](javascript.md)
+
+L'objectif est de montrer la qualité technique du site CareTogether
