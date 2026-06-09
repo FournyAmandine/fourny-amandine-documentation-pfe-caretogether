@@ -82,6 +82,7 @@ Voici les différentes règles que mon site couvre :
 
 - Règle n° 182 - Les contenus sont présentés avec un contraste suffisant par rapport à leur arrière-plan.
   Les contrastes passent tous que ce soit avec Contrast Checker ou Lighthouse.
+  [Voir la partie sur les contrastes](contraste.md)
 
 - Règle n° 185 - Un contenu qui doit être restitué dans un lecteur d'écran ne lui est pas dissimulé.
   Le voiceOver parcourt les élémens nécessaires.
@@ -109,6 +110,7 @@ Voici les différentes règles que mon site couvre :
 
 - Règle n° 234 - Le contenu de chaque page est organisé selon une structure de titres et sous-titres hiérarchisée.
   L'outline du site est correcte.
+  [Voir la partie sur la qualité du code HTML](qualitycode.md)
 
 - Règle n° 236 - Chaque identifiant HTML n'est utilisé qu'une seule fois par page.
 
