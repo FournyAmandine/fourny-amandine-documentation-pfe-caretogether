@@ -4,7 +4,7 @@
 Voici les différents apports fait en JavaScript pour ajouter un plus à l'utilisateur : 
 
 ## Ajout d'animations sur le site public
-![Ajout d'animations sur le site public](images/js/JS-AOS.png)
+![Ajout d'animations sur le site public](images/js/Js-AOS.png)
 
 ## Ajout de slider sur les pages index des annonces dans la partie utilisateur
 ![Ajout de slider sur les pages index des annonces dans la partie utilisateur](images/js/JS-Slick.png)
