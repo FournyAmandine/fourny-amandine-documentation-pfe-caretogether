@@ -24,8 +24,8 @@ Pour le premier test utilisateur, j'ai demandé à une bandagiste. CareTogether 
 Ensuite je suis passée à une aide soignante. C'est aussi un public cible tant au niveau professionnel que personnel. Elle pourrait chercher pour une annonce pour elle que pour une patient.  
 [Voir la vidéo de Test Sophie Connexion](https://youtu.be/9lYAMcuC-1g)  
 [Voir la vidéo de Test Sophie Contact](https://youtu.be/_aJAXxL5cJc)  
-[Voir la vidéo de Test Sophie Vendu]()  
-[Voir la vidéo de Test Sophie Register]()  
+[Voir la vidéo de Test Sophie Vendu](https://youtu.be/0-QNvq24G64)  
+[Voir la vidéo de Test Sophie Register](https://youtu.be/ARSAeimNP1E)  
 
 -> Pour ce test, ce qui ressort c'est les informations qui partent lorsqu'on crée un compte et qu'il y a une erreur. Ce n'est pas pratique d'avoir les infos qui s'en vont dès qu'il y a une erreur et qu'on doive les remettre à chaque fois. Pour la recherche, Sophie a recherché un terme qui n'est pas connu dans le site mais dont l'article existe avec un autre nom. Il manque peut-être des tags ou une liste de noms différents pour ne plus tomber sur ce cas. Les annonces enregistrées ne sont pas facilement trouvables, le lien sur la sidebar n'est pas suffisant pour les retrouvées. Il faut les mettre plus voyantes sur le dashboard. Le bouton pour enregistrer l'annonce n'est pas compréhensible, c'est parce que Sophie a associé le symbole parce qu'elle l'avait déjà vu mais sinon elle ne l'aurait pas trouvé. 
 
