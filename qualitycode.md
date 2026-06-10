@@ -71,6 +71,29 @@ Voici les différents rapport qui attestent de la qualité du code HTML:
 ---
 
 ## Efforts pour la sémantique
+Tout d'abord chaque page du site public est validée niveau sémantique.  
+
+Ensuite pour les pages publiques, un composant est utilisé pour avoir une cohérence. Dans ce composant, il y a le head, header, main et footer. 
+![Composant app](images/semantique/HTML-App.png)
+
+Chaque input des formulaires de connexion, inscription, contact est accompagné de son label et connecté à celui-ci. Un composant est utilisé pour garder la même structure.  
+![Composant input](images/semantique/HTML-Input.png)
+
+Chaque call to actions a la balise adéquate :  
+- Quand il y a une redirection, la balise 'a' est utilisée avec l'href correspondant
+- Quand il n'y a pas de redirection, juste une action, c'est un bouton de type button qui est utilisé
+- Pour les formulaires, c'est un bouton de type submit
+![Composant bouton](images/semantique/HTML-Button.png)
+![Composant lien](images/semantique/HTML-Link.png)
+
+Les annonces qui sont dans les pages d'index (achats, locations, annonces, accueil...) sont des articles avec un titre, en général h3, qui correspond.   
+![Composant lien](images/semantique/HTML-Article.png)  
+
+J'ai une liste de composants séparée en fonction des différentes parties du site que j'utilise pour construire le site. Ça me permet d'avoir une cohérence pour la sémantique. 
+![Liste des composants](images/semantique/HTML-Components.png)  
+
+Chaque formulaire est dans une balise form avec un csrf. 
+![Formulaire](images/semantique/HTML-Form.png)  
 
 ---
 
@@ -84,10 +107,6 @@ Voici les différents rapport qui attestent de la qualité du code HTML:
 
 ### Carte d'une annonce
 ![Micro-datas de la page détail](images/micro-datas/DATA - Annonce.png)
-
----
-
-## Affichage des images
 
 ---
 
