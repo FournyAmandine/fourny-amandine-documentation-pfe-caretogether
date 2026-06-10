@@ -3,7 +3,7 @@
 
 Voici les différents tests effectués pour le fonctionnement du site : 
 
-## Test Pest
+## Tests Pest
 ![Test pour l'inscription](images/tests/TEST-RedirectRegister.png)
 ![Test pour la connexion](images/tests/TEST-Redirect.png)
 ![Test pour la liste des annonces encore disponibles](images/tests/TEST-Available.png)
@@ -20,7 +20,9 @@ Voici les différents tests effectués pour le fonctionnement du site :
 ![Test pour la pagination sur la page d'index](images/tests/TEST-Paginate.png)
 ![Test pour le dashboard administrateur](images/tests/TEST-Admin.png)
 
-## Test browser
+---
+
+## Tests browser
 ![Test pour l'inscription](images/tests/TEST-Register.png)
 ![Test pour la connexion](images/tests/TEST-Login.png)
 ![Test pour la déconnexion](images/tests/TEST-logout.png)
