@@ -51,7 +51,7 @@ Voici les différentes règles que mon site couvre :
 
 ---
 
-##Navigation 
+## Navigation 
 - Règle n° 154 - La navigation ne provoque pas l'ouverture de popups.  
   La navigation ne provoque aucune ouverture de popups.  
 
