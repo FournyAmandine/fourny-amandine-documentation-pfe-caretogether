@@ -47,3 +47,9 @@ Voici les différents rapport venant de la laravel debugbar.  Au début de parta
 
 ## Page des messages de l'administrateur
 ![Laravel debugbar page des messages de l'administrateur](images/performance/PERF-MessagesA.png)
+
+
+
+## Retour
+
+[← Retour à l’accueil](index.md)
