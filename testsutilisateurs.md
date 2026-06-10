@@ -39,3 +39,8 @@ Et pour le dernier, j'ai pris un particulier qui pourrait chercher du matériel 
 
 -> Ce qui en ressort c'est que les annonces enregistrées ne sont pas visibles directement, il faudrait les mettres dans le dashboard, que ce soit plus visible. Pour Louis, les statistiques étaient cliquables pour retrouver les annonces ou messages mais ce n'est pas le but premier. Au départ, c'est juste à titre informatif. Quelques erreurs étaient encore là comme la création d'annonce ou la mise en location qui n'étaient pas fonctionnelles. Le bouton pour enregistrer l'annonce n'est pas clair non plus. C'est parce qu'il connaissait le symbole mais sinon on ne comprend pas directement. Pour l'inscription, un bouton pour voir le mot de passe manquait. 
 
+
+
+## Retour
+
+[← Retour à l’accueil](index.md)
