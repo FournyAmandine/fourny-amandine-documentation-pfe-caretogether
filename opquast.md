@@ -205,3 +205,7 @@ Voici les différentes règles que mon site couvre :
   Lors de la réinitialisation du mot de passe, il n'est pas envoyé en clair.  
 
   
+
+## Retour
+
+[← Retour à l’accueil](index.md)
