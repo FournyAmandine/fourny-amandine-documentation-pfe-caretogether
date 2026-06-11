@@ -24,3 +24,9 @@ Voici les différents rapport lighthouse du site public et des pages connexion :
 ### Inscription
 ![Test pour la page inscription](images/lighthouse/Lighthouse-Register.png)
 
+---
+
+## Retour
+
+[← Retour à l’accueil](index.md)
+
