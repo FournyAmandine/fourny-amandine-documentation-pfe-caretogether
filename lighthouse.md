@@ -1,7 +1,7 @@
 # Test Lighthouse
 
 
-Voici les différents rapport lighthouse du site public et des pages connexion : 
+Voici les différents rapport lighthouse du site public et des pages connexion: 
 
 ### Accueil
 ![Test pour l'accueil](images/lighthouse/Lighthouse-Home.png)
